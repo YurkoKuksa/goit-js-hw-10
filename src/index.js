@@ -68,7 +68,7 @@ function articleTemplate({ url, description, name }) {
         class="pic"
         src="${url}"
         alt=""
-        width="360"
+        width="560"
       />
       <div class="info-box">
         <h1 class="title">${name}</h1>

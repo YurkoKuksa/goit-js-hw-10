@@ -69,7 +69,8 @@ p.loader {
 
 .article {
   text-indent: 5%;
-  font-size: 18px;
+  font-size: 22px;
+  line-height: 1.5;
 }
 
 /* =============== LOADER ============== */
