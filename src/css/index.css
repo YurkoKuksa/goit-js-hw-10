@@ -16,6 +16,10 @@ body {
   background-color: rgb(141, 185, 224);
 }
 
+a {
+  text-decoration: none;
+}
+
 .breed-select {
   width: 350px;
   height: 40px;
@@ -65,6 +69,10 @@ p.loader {
 }
 .title {
   text-align: center;
+}
+
+.title-description {
+  font-weight: 700;
 }
 
 .article {
