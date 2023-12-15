@@ -15,13 +15,3 @@ export function fetchCatByBreed(breedIds) {
 
   return axios.get(`${BASE_URL}${END_POINT}?breed_ids=${breedIds}`);
 }
-
-// fetch(url)
-//   .then(message)
-//   .then(value)
-//   .catch(err => {})
-//   .finally();
-
-// const url = `?${PARAMS}`;
-
-// fetchBreeds();
